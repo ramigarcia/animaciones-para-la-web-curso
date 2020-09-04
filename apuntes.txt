@@ -1,0 +1,27 @@
+--------ANIMACIONS--------
+La transición que ocurre entre un punto A y un punto B.
+Son parte natural de las interfaces web.
+Son una forma natural de enseñanza para el usuario.
+Ayudan a conectar una interfaz que solo está programada en algo que realmente está vivo.
+La acción de un usuario interactuando con la interfaz y que ésta le de feedback de lo que está ocurriendo.
+
+--------RECORDATORIO--------
+La transición que ocurre entre un punto A y un punto B.
+
+--------TRANSICIONES--------
+Las transiciones CSS pueden especificarse usando varias propiedades:
+Qué propiedades van a cambiar en la transición => 'transition-property: width, height;'
+Cuánto tiempo va a durar la transición => 'transition-duration: (tiempo);'
+Cuánto tiempo va a tardar la transición en ocurrir => 'transition-delay: (tiempo);'
+Función que determina de qué forma se calculan los valores intermedios de la transición => 'transition-timing-function: (atributo);'
+TAMBIEN SE PUEDE EXPRESAR EN UNA SOLA LINEA
+Cada propiedad a cambiar se separa con una coma:
+'transition: (propiedad) (delay) (duracion) (timing-function), propiedad(a cambiar) (delay) (duracion) (timing-function)'
+
+--------TRANSFORMACIONES--------
+Algunas de las cosas que podemos lograr en un elemento con transform son:
+
+Rotar un elemento.
+Sesgar un elemento.
+Cambiar la posición de un elemento.
+Cambiar el tamaño de un elemento.
